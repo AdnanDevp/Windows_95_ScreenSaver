@@ -1,0 +1,42 @@
+# Ignore temp files and build artifacts
+Temp/
+Library/
+Logs/
+UserSettings/
+
+# Ignore build directories
+Build/
+Builds/
+
+# Ignore Visual Studio files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Ignore Rider files
+.idea/
+*.sln.iml
+
+# Ignore Unity meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Ignore the asset cache directory
+[Aa]ssets/[Aa]sset[Ss]tore/
+
+# Ignore JetBrains Rider plugin data
+.idea/
+
+# Ignore crash reports
+**/crash-reports/
+
+# Ignore auto-generated VS Code settings
+.vscode/
